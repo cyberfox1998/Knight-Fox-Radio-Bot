@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",  Knight-Fox-radio
+  "main": "bot.js",Knight-Fox-radio
   "scripts": {
     "start": "node bot.js"
   },
