@@ -1,1 +1,1 @@
-worker: node bot.js Knight Fox Radio
+worker: node bot.js Knight Fox radio
